@@ -1,4 +1,4 @@
-**From Code to Conversation: Embracing High-Level Prompt Languages**
+# From Code to Conversation: Embracing High-Level Prompt Languages
 
 Programming is evolving. As AI continues to advance, the role of developers is shifting from writing every line of code to specifying what software should do at a much higher level of abstraction. This evolution suggests a future where developers may work primarily with a standardized prompt language above traditional programming languages like Python.
 
