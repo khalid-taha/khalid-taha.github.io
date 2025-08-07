@@ -1,4 +1,4 @@
-# Title: Moving Past the Data: Challenges in Adopting AI in Industry  
+# Moving Past the Data: Challenges in Adopting AI in Industry  
 **Author:** Khalid Taha  
 **Date:** 7 August 2025  
 
