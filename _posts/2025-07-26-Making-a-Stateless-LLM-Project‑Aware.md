@@ -1,4 +1,4 @@
-**Making a Stateless LLM Project‑Aware**
+# Making a Stateless LLM Project‑Aware
 
 Large language models have goldfish memories—they don’t recall past calls unless you hand them that context every single time. Yet you *can* run a weeks‑long coding project with ChatGPT (or any other LLM) if you wrap a thin layer of “state management” around each request.  
 Below you’ll find the key ideas in plain, practical language. They work no matter how you connect: web chat, REST API, CLI, whatever.
