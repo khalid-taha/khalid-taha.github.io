@@ -1,3 +1,9 @@
+---
+title: "With AI, the hard part is no longer speed"
+date: 2026-05-30
+tags: [AI, software-engineering, testing, AI-SDLC]
+---
+
 # With AI, the hard part is no longer speed
 
 For most of the history of software, writing code was the slow part. People are limited by time, energy, and attention. A feature took as long as it took to type, test, and fix by hand.
